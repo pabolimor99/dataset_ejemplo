@@ -1,0 +1,20 @@
+﻿features
+    Vehiculo
+        Motor
+            Combustion
+            Electrico
+        Transmision
+            Manual
+            Automatica
+        Carroceria
+            Sedan
+            SUV
+            Deportivo
+        Extras
+            AireAcondicionado
+            GPS
+            Sunroof
+
+constraints
+    Electrico -> not Combustion
+    Deportivo -> Motor.AltoRendimiento

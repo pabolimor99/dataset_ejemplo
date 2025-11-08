@@ -1,0 +1,14 @@
+﻿features
+    Motor
+        Tipo
+            Combustion
+            Electrico
+        Rendimiento
+            Estandar
+            Alto
+        Refrigeracion
+            Aire
+            Liquida
+    Control
+        Manual
+        Automatico

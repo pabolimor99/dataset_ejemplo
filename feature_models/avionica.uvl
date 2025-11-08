@@ -1,0 +1,14 @@
+﻿features
+    Avionica
+        Radar
+            AlcanceCorto
+            AlcanceLargo
+        Comunicaciones
+            VHF
+            UHF
+        Navegacion
+            GPS
+            INS
+    Seguridad
+        DeteccionFuego
+        ParacaidasEmergencia
